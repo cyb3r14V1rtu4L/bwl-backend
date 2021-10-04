@@ -1,2 +1,0 @@
-# bwl-backend
-BWL Backend
